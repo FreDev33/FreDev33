@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy FreDev33! 🚀</h1>
+<h1 align="center">¡Hola, soy Alfredo S. Alarcon 🚀</h1>
 <p align="center">
   <b>Ingeniero de Sistemas | Cloud Engineer Sales Leader | CEO Consultant | Autor | Innovador</b>
 </p>
@@ -15,9 +15,9 @@ He sido **Ingeniero de Soporte en Microsoft**, administrando grandes cuentas y b
 
  🌩️ Experiencia en la Nube
 
-- **AWS**: Consultoría, arquitectura y seguridad de soluciones escalables.
-- **Azure**: Gestión de entornos empresariales y soporte de alto nivel.
-- **GCP**: Implementación y administración de infraestructuras modernas.
+- AWS (Amazon Web Services): Consultoría, arquitectura y seguridad de soluciones escalables.
+- Microsoft Azure: Gestión de entornos empresariales y soporte de alto nivel.
+- GCP: Implementación y administración de infraestructuras modernas.
 
 ---
 
@@ -57,9 +57,9 @@ Soy autor de dos libros publicados en Amazon KDP:
 
 📫 ¿Te gustaría conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/alfredoalarcon) <!-- Cambia por tu perfil real -->
-- [Amazon Autor](https://www.amazon.com/author/tuautor) <!-- Cambia por tu enlace real -->
-- [Email](mailto:tuemail@ejemplo.com) <!-- Cambia por tu email real -->
+- [LinkedIn](https://www.linkedin.com/in/alfredoalarcon) 
+- [Amazon Autor](https://www.amazon.com/author/)alfredosebastianalarcon <!-- Cambia por tu enlace real -->
+- [Email] alfredo.s.alarcon78@gmail.com
 
 ---
 
