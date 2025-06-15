@@ -1,7 +1,7 @@
 <!--  ===================  HERO  =================== -->
 <!-- Banner: crea uno en canva o usa un GIF corto (≤5 MB) -->
 <div align="center">
-  <img src="assets/hero.gif" width="100%" alt="Banner Alfredo Alarcón"/>
+  <img src="https://ibb.co/Pz5W4XW1" width="100%" alt="Banner Alfredo Alarcón"/>
 </div>
 
 <h1 align="center">¡Hola, soy Alfredo! <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon.png" width="28"/></h1>
