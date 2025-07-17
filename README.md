@@ -1,52 +1,32 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FreDev33/FortiX-Distro/main/branding/wallpapers/fortix-wallpaper-light.jpg" alt="FortiX Banner" style="border-radius: 15px; max-height: 400px; width: 100%; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+</div>
+
 <h1 align="center">👋 Hola, soy Alfredo Alarcón</h1>
+<h3 align="center">Ingeniero en Informática | Desarrollador Web | Autor | Maker Open Source</h3>
 
 <div align="center">
-  <strong>Ingeniero en Informática | Desarrollador Web | Autor | Maker Open Source</strong><br>
-  🇦🇷 Argentina
+  
+  🇦🇷 Argentina • 🛡️ Ciberseguridad • ♻️ Resurrección de Hardware
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfredoalarcon)
+  [![GitHub](https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FreDev33)
+  [![Amazon](https://img.shields.io/badge/Amazon-Author-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/~/e/B0CX8D34RC)
+
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Acerca de Mí
 
-Apasionado por la **ciberseguridad**, la **automatización** y la **resurrección de hardware olvidado**.  
-Creo soluciones innovadoras para que la tecnología sea **más ética, más accesible y más duradera**.
-
-Soy autor de dos libros publicados en Amazon:
-- [💡 Guía esencial de Ciberseguridad](https://a.co/d/fJVjLD5) — Medidas prácticas para proteger activos digitales.
-- [☁️ Mastering AWS](https://a.co/d/1MyEITo) — Guía avanzada de Amazon Web Services.
-
-Después de años trabajando en **desarrollo y consultoría tecnológica**, decidí emprender mi camino creando soluciones abiertas y educativas.  
-Hoy estoy desarrollando **FortiX**, una distribución Linux ultraliviana, enfocada en seguridad y rendimiento para equipos de bajos recursos.
-
----
-
-## 🐧 Proyectos destacados
-
-- **[FortiX Distro](https://github.com/FreDev33/FortiX-Distro)** — Distribución Linux ética, rápida y minimalista.
-- **Webs y MVPs** — Desarrollo de sitios y soluciones web innovadoras para clientes y proyectos personales.
-
----
-
-## 📚 ¿Qué hago hoy?
-
-✅ Construyo y comparto herramientas open source.  
-✅ Escribo contenidos y guías prácticas sobre Linux, seguridad y cloud.  
-✅ Experimento para devolverle vida a equipos que otros descartan.  
-✅ Creo comunidad alrededor de la **ética tecnológica**.
-
----
-
-## 📬 Conectemos
-
-- [LinkedIn](https://linkedin.com/in/alfredoalarcon)
-- [Amazon Author Page](https://www.amazon.com/~/e/B0CX8D34RC)
-- [GitHub](https://github.com/FreDev33)
-
----
-
-**_"Lo que las corporaciones roban, el open source lo multiplica."_**
-
-<div align="center">
-  ⚔️🛡️ Guerreros Éticos, Código Libre 🐧
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 4px solid #4e89ae; margin: 20px 0;">
+  <p style="font-style: italic; font-size: 1.1em;">
+    "Apasionado por la <strong>ciberseguridad</strong>, la <strong>automatización</strong> y la <strong>resurrección de hardware olvidado</strong>. Creo soluciones innovadoras para que la tecnología sea <strong>más ética, más accesible y más duradera</strong>."
+  </p>
 </div>
+
+```diff
++ 💼 Ingeniero en Informática con experiencia en desarrollo y consultoría
++ 📚 Autor de libros técnicos sobre ciberseguridad y AWS
++ ♻️ Especialista en revivir hardware antiguo con soluciones ligeras
++ 🐧 Creador de FortiX Linux - Distribución ética para bajos recursos
