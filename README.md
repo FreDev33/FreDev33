@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FreDev33/FortiX-Distro/main/branding/wallpapers/fortix-wallpaper-light.jpg" alt="FortiX Banner" style="border-radius: 15px; max-height: 400px; width: 100%; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <img src="https://raw.githubusercontent.com/FreDev33/FortiX-Distro/main/branding/wallpapers/fortix-wallpaper-dark.jpg" alt="FortiX Banner" style="border-radius: 15px; max-height: 400px; width: 100%; object-fit: cover; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
 </div>
 
 <h1 align="center">👋 Hola, soy Alfredo Alarcón</h1>
